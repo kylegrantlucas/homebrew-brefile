@@ -96,7 +96,7 @@ brew "screenfetch"
 brew "shellcheck"
 brew "shpotify"
 brew "siege"
-brew "sshpass"
+
 brew "swagger-codegen"
 brew "terminal-notifier"
 brew "the_silver_searcher"
