@@ -124,7 +124,7 @@ brew "watch"
 brew "wget"
 brew "xsv"
 brew "yarn"
-brew "youtube-dl"
+# brew "youtube-dl"
 brew "golangci/tap/golangci-lint"
 
 cask "1password"
@@ -140,7 +140,10 @@ cask "cryptomator"
 cask "discord"
 cask "disk-inventory-x"
 cask "docker"
+cask "firefox"
 cask "flux"
+cask "google-chrome"
+cask "handbrake"
 cask "iterm2"
 cask "itsycal"
 cask "java"
@@ -148,6 +151,7 @@ cask "keka"
 cask "little-snitch"
 cask "micro-snitch"
 cask "notion"
+cask "private-internet-access"
 cask "qladdict"
 cask "qlcolorcode"
 cask "qlimagesize"
@@ -161,10 +165,13 @@ cask "quicklook-json"
 cask "quicklookase"
 cask "rescuetime"
 cask "rocket"
+cask "slack"
 cask "sourcetree"
 cask "spectacle"
+cask "splice"
 cask "spotify"
 cask "spotify-notifications"
+cask "sublime-merge"
 cask "suspicious-package"
 cask "swiftformat-for-xcode"
 cask "tripmode"
@@ -174,12 +181,17 @@ cask "webpquicklook"
 cask "wkhtmltopdf"
 cask "xld"
 cask "xquartz"
+cask "zoomus"
 
 mas "Amphetamine", id: 937984704
 mas "Bear", id: 1091189122
 mas "Developer", id: 640199958
+mas "Logic Pro X", id: 634148309
 mas "Numbers", id: 409203825
+mas "OmniGraffle", id: 1142578753
 mas "Pages", id: 409201541
 mas "Paste JSON as Code • quicktype", id: 1330801220
 mas "Spark", id: 1176895641
 mas "Things", id: 904280696
+mas "Trello", id: 1278508951
+mas "WireGuard", id: 1451685025
